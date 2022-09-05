@@ -1,5 +1,4 @@
 import React from "react";
-import { Outlet } from "react-router-dom";
 import ContactsBar from "./ContactsBar";
 import ContactsList from "./ContactsList";
 const Layout = () => {
